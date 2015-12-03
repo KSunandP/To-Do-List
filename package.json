@@ -1,0 +1,19 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "To Do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSunandP/To-Do-List.git"
+  },
+  "author": "Kyle Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KSunandP/To-Do-List/issues"
+  },
+  "homepage": "https://github.com/KSunandP/To-Do-List#readme"
+}
